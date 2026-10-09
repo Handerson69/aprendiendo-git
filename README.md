@@ -13,3 +13,5 @@ Este cambio fue realizado directamente en GitHub.
 Estoy practicando la sincronizacion entre dos copias de Git.
 
 Estado del proyecto: modificacion de la copia B.
+Estado del proyecto: version inicial.
+
