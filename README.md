@@ -11,3 +11,5 @@ Estoy aprendiendo a utilizar GitHub.
 Este cambio fue realizado directamente en GitHub.
 
 Estoy practicando la sincronizacion entre dos copias de Git.
+
+Estado del proyecto: version inicial.
